@@ -90,7 +90,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1247051423009045860, guid: e3ec6c08d8413a44c8206d2f5c7bfed4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 60.351994
+      value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 1247051423009045860, guid: e3ec6c08d8413a44c8206d2f5c7bfed4, type: 3}
       propertyPath: m_LocalPosition.z
@@ -126,7 +126,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5184345258015700431, guid: e3ec6c08d8413a44c8206d2f5c7bfed4, type: 3}
       propertyPath: m_Name
-      value: Wall
+      value: DoubleWall
       objectReference: {fileID: 0}
     - target: {fileID: 5901848087875702401, guid: e3ec6c08d8413a44c8206d2f5c7bfed4, type: 3}
       propertyPath: m_Mesh
